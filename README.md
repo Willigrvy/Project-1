@@ -1,2 +1,2 @@
 # Project-1-cleanup
-Practice in identifying areas for improvement and implementing without destroying
+Practice in identifying areas for improvement and implementing without destroying. A task that is much easier said than done. I went through the css and HTML code and removed all lines that seemed unessisary. i corrected the first link that didn work and changed a few things that were bothering me about the original page. I think it looks a bit cleaner but I did change a few things that were not intentional and couldn't fix. At least not on my own.
